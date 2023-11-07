@@ -1,0 +1,23 @@
+{
+  "name": "todo-list",
+  "version": "1.0.0",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.6"
+  },
+  "dependencies": {
+    "inquirer": "^9.2.11",
+    "install": "^0.13.0",
+    "rxjs": "^7.8.1",
+    "tslib": "^2.6.2",
+    "undici-types": "^5.26.5"
+  },
+  "description": ""
+}
